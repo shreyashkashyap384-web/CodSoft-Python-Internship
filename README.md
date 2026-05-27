@@ -89,10 +89,6 @@ python filename.py
 
 ---
 
-## 📷 Output Screenshots
-
-Add screenshots of project outputs here.
-
 ---
 
 ## ⭐ Acknowledgement
