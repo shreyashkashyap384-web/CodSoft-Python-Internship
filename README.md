@@ -89,8 +89,6 @@ python filename.py
 
 ---
 
----
-
 ## ⭐ Acknowledgement
 
 Thanks to CodSoft for providing the opportunity to work on practical Python projects and improve my programming skills.
